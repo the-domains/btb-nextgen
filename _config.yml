@@ -1,0 +1,14 @@
+layout_spectrum: 0.9786731037311256
+typography_spectrum: 0.4718869789503515
+color:
+  brandStrength: 0.23052957630716264
+  lightness: 0.30673721875064075
+  saturation: 0.44459430733695626
+  rhythmicContrast: 0.8632007834967226
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: BTB NextGen
