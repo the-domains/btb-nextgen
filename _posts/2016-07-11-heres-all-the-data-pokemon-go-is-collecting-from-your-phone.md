@@ -48,11 +48,11 @@ app_links:
 isBasedOnUrl: >-
   https://www.buzzfeed.com/josephbernstein/heres-all-the-data-pokemon-go-is-collecting-from-your-phone
 title: Here's All The Data Pokemon Go Is Collecting From Your Phone
-datePublished: '2016-07-11T21:34:01.024Z'
-dateModified: '2016-07-11T21:33:44.467Z'
-starred: false
+datePublished: '2016-07-11T21:34:22.571Z'
+dateModified: '2016-07-11T21:34:22.370Z'
 sourcePath: >-
   _posts/2016-07-11-heres-all-the-data-pokemon-go-is-collecting-from-your-phone.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
